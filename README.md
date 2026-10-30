@@ -1,7 +1,7 @@
-# AI-Powered Sales Intelligence Dashboard
-
-An interactive sales analytics dashboard built with Python, Streamlit, Pandas, and Plotly to explore sales performance and generate business insights.
-
+# Sales Intelligence & Analytics Dashboard
+An interactive sales analytics dashboard built using Python,
+Streamlit, Pandas, and Plotly to analyze sales performance,
+product trends, category-wise revenue, and promotional impact.
 ## Features
 
 - Interactive sales KPIs and summaries
